@@ -1,0 +1,44 @@
+{
+  "btc_transactions": [
+    {
+      "id": "202408010859",
+      "type": "Buy",
+      "cant": 0.1,
+      "price": 64595,
+      "amount": 6459.5,
+      "createdAt": "8/1/2024, 11:59:42 AM"
+    },
+    {
+      "id": "202408010901",
+      "type": "Buy",
+      "cant": 0.15,
+      "price": 64650,
+      "amount": 9697.5,
+      "createdAt": "8/1/2024, 12:01:11 PM"
+    },
+    {
+      "id": "202408010902",
+      "type": "Sell",
+      "cant": 0.05,
+      "price": 64650,
+      "amount": 3232.5,
+      "createdAt": "8/1/2024, 12:03:02 PM"
+    },
+    {
+      "id": "2024080109062",
+      "type": "Sell",
+      "cant": 0.1,
+      "price": 62993,
+      "amount": 6299.3,
+      "createdAt": "8/1/2024, 4:12:20 PM"
+    },
+    {
+      "id": "20240801aa",
+      "type": "Buy",
+      "cant": 1,
+      "price": 62534,
+      "amount": 62534,
+      "createdAt": "8/1/2024, 5:27:55 PM"
+    }
+  ]
+}
